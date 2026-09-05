@@ -29,7 +29,7 @@ while True:
     elif choice == "4":
         result = num1 / num2
         if num2 == "0":
-            print("You cant divude by 0!")
+            print("You cant divide by 0!")
         else:
             print(f"{result}")
     else:
